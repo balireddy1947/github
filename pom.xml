@@ -12,7 +12,7 @@
     <name>Servlet 3 Webapp with Jetty Plugin</name>
 
     <properties>
-	    hello tomcat server please uplody my war file
+	 hi   hello tomcat server please uplody my war file
         <version.java>1.8</version.java>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
